@@ -56,10 +56,10 @@ import {
                   <div>
                     <h4 className="font-medium"> Email</h4>
                     <a
-                      href="mailto:hello@gmail.com"
+                      href="mailto:sravankumarkurapati1@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      hello@gmail.com
+                      sravankumarkurapati1@gmail.com
                     </a>
                   </div>
                 </div>
@@ -70,10 +70,10 @@ import {
                   <div>
                     <h4 className="font-medium"> Phone</h4>
                     <a
-                      href="tel:+11234567890"
+                      href="tel:+18574277767"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      +1 (123) 456-7890
+                      +1 (857) 427-7767
                     </a>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ import {
                   <div>
                     <h4 className="font-medium"> Location</h4>
                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                      Vancouver, BC, Canada
+                      Boston, MA, USA
                     </a>
                   </div>
                 </div>
